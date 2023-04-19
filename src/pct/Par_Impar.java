@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * and open the template in the editor. kkkkkkkkkkkk
  */
 package pct;
 
@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author gilberto
+ * @author gilberto Giba
  */
 public class Par_Impar {
     public static void main(String[] args) {
@@ -36,7 +36,7 @@ public class Par_Impar {
             System.out.println(n + " é impar!\n");
         }
         */
-        JOptionPane.showMessageDialog(null, "Gilberto");
+        JOptionPane.showMessageDialog(null, "Paulo");
         
     }
     
